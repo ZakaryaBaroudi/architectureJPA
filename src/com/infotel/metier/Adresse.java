@@ -12,7 +12,7 @@ import javax.persistence.PreRemove;
 
 @Entity
 public class Adresse {
-
+// salut les amis 
 @Id
 @GeneratedValue(strategy=GenerationType.IDENTITY)
 	private int idAdresse;
